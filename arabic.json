@@ -1,0 +1,13 @@
+{
+  "name": "DarkArabic",
+  "description": "Arabic series, movies, and shows",
+  "version": "1.0.0",
+  "requires_realdebrid": true,
+  "sources": [
+    {"name": "ShahidVIP", "type": "arabic", "url": "https://shahid.mbc.net", "enabled": true},
+    {"name": "ArabSeed", "type": "arabic", "url": "https://arabseed.com", "enabled": true},
+    {"name": "Fusha", "type": "arabic", "url": "https://fusha.tv", "enabled": true},
+    {"name": "Cima4u", "type": "arabic", "url": "https://cima4u.io", "enabled": true},
+    {"name": "Sharik4u", "type": "arabic", "url": "https://sharik4u.me", "enabled": true}
+  ]
+}
