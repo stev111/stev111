@@ -1,0 +1,13 @@
+{
+  "name": "DarkMovies",
+  "description": "Movies, Series, and TV Shows",
+  "version": "1.0.0",
+  "requires_realdebrid": true,
+  "sources": [
+    {"name": "FlixHq", "type": "movie", "url": "https://flixhq.to", "enabled": true},
+    {"name": "LookMovie", "type": "movie", "url": "https://lookmovie.io", "enabled": true},
+    {"name": "2Embed", "type": "movie", "url": "https://www.2embed.to", "enabled": true},
+    {"name": "SuperEmbed", "type": "movie", "url": "https://superembed.io", "enabled": true},
+    {"name": "CineTag", "type": "movie", "url": "https://cinetag.io", "enabled": true}
+  ]
+}
