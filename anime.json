@@ -1,0 +1,13 @@
+{
+  "name": "DarkAnime",
+  "description": "Anime sources with RealDebrid support",
+  "version": "1.0.0",
+  "requires_realdebrid": true,
+  "sources": [
+    {"name": "Goku", "type": "anime", "url": "https://goku.sbs", "enabled": true},
+    {"name": "Zoro", "type": "anime", "url": "https://zoro.to", "enabled": true},
+    {"name": "AllAnime", "type": "anime", "url": "https://allanime.site", "enabled": true},
+    {"name": "Animixplay", "type": "anime", "url": "https://animixplay.tv", "enabled": true},
+    {"name": "Kemono", "type": "anime", "url": "https://kemono.party", "enabled": true}
+  ]
+}
