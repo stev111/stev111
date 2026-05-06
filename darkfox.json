@@ -1,0 +1,30 @@
+{
+  "name": "DarkFox Repository",
+  "description": "DarkFox CloudStream Repository - Anime, Arabic, Movies with RealDebrid Support",
+  "version": "1.0.0",
+  "maintainer": "DarkFox",
+  "id": "darkfox-repo",
+  "sources": [
+    {
+      "name": "DarkAnime",
+      "description": "Anime sources with RealDebrid",
+      "url": "https://raw.githubusercontent.com/stev111/cloudstream-repos/main/anime.json",
+      "enabled": true,
+      "type": "anime"
+    },
+    {
+      "name": "DarkArabic",
+      "description": "Arabic series and movies",
+      "url": "https://raw.githubusercontent.com/stev111/cloudstream-repos/main/arabic.json",
+      "enabled": true,
+      "type": "general"
+    },
+    {
+      "name": "DarkMovies",
+      "description": "Movies and TV Shows",
+      "url": "https://raw.githubusercontent.com/stev111/cloudstream-repos/main/movies.json",
+      "enabled": true,
+      "type": "movie"
+    }
+  ]
+}
